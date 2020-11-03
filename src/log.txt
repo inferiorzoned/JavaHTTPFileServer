@@ -1,0 +1,148 @@
+
+REQUEST:
+GET / HTTP/1.1
+REQUEST:
+GET / HTTP/1.1
+RESPONSE:
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Mon Sep 28 16:34:02 BDT 2020
+Content-Type: text/html
+Content-Length: 409
+
+
+REQUEST:
+GET /favicon.ico HTTP/1.1
+REQUEST:
+GET /favicon.ico HTTP/1.1
+RESPONSE:
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Mon Sep 28 16:34:02 BDT 2020
+Content-Type: image/x-icon
+Content-Length: 1150
+Content-Disposition: attachment;
+
+
+REQUEST:
+GET /dir1/ HTTP/1.1
+REQUEST:
+GET /dir1/ HTTP/1.1
+RESPONSE:
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Mon Sep 28 16:34:41 BDT 2020
+Content-Type: text/html
+Content-Length: 508
+
+
+REQUEST:
+GET /dir1/imgsend.jpg HTTP/1.1
+REQUEST:
+GET /dir1/imgsend.jpg HTTP/1.1
+RESPONSE:
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Mon Sep 28 16:34:49 BDT 2020
+Content-Type: image/jpeg
+Content-Length: 2718541
+Content-Disposition: attachment;
+
+
+REQUEST:
+GET /dir1/ffghf HTTP/1.1
+REQUEST:
+GET /dir1/ffghf HTTP/1.1
+RESPONSE:
+HTTP/1.1 404 NOT FOUND
+Server: Java HTTP Server: 1.0
+Date: Mon Sep 28 16:35:17 BDT 2020
+Content-Type: text/html
+Content-Length: 15785
+
+
+REQUEST:
+GET / HTTP/1.1
+REQUEST:
+GET / HTTP/1.1
+RESPONSE:
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Mon Sep 28 16:35:27 BDT 2020
+Content-Type: text/html
+Content-Length: 409
+
+
+REQUEST:
+GET /dir1/ HTTP/1.1
+REQUEST:
+GET /dir1/ HTTP/1.1
+RESPONSE:
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Mon Sep 28 16:35:41 BDT 2020
+Content-Type: text/html
+Content-Length: 508
+
+
+REQUEST:
+GET /dir1/PrisonBreakS02E11720pBluRayReEncDeeJayAhmed.mkv HTTP/1.1
+REQUEST:
+GET /dir1/dir2/ HTTP/1.1
+REQUEST:
+GET /dir1/dir2/ HTTP/1.1
+RESPONSE:
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Mon Sep 28 16:35:47 BDT 2020
+Content-Type: text/html
+Content-Length: 231
+
+
+REQUEST:
+GET /dir1/dir2/dir3/ HTTP/1.1
+REQUEST:
+GET /dir1/dir2/dir3/ HTTP/1.1
+RESPONSE:
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Mon Sep 28 16:35:49 BDT 2020
+Content-Type: text/html
+Content-Length: 164
+
+
+REQUEST:
+GET /dir1/PrisonBreakS02E11720pBluRayReEncDeeJayAhmed.mkv HTTP/1.1
+RESPONSE:
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Mon Sep 28 16:35:42 BDT 2020
+Content-Type: video/x-matroska
+Content-Length: 332118269
+Content-Disposition: attachment;
+
+
+REQUEST:
+GET / HTTP/1.1
+REQUEST:
+GET / HTTP/1.1
+RESPONSE:
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Mon Sep 28 16:38:27 BDT 2020
+Content-Type: text/html
+Content-Length: 543
+
+
+REQUEST:
+GET /7.1.pdf HTTP/1.1
+REQUEST:
+GET /7.1.pdf HTTP/1.1
+RESPONSE:
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Mon Sep 28 16:38:32 BDT 2020
+Content-Type: application/pdf
+Content-Length: 1346120
+Content-Disposition: attachment;
+
